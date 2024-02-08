@@ -17,6 +17,8 @@ body {
 }
 
 .display {
+  box-sizing: border-box;
+  height: 80px;
   font-size: 2.5em;
   border: 1px solid #ccc;
   padding: 15px;
